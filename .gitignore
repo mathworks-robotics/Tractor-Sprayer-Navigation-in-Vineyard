@@ -1,0 +1,8 @@
+# Temporary Files
+*.asv
+.autosave
+*.slxc
+*.slx.*
+
+# Compiled Files
+slprj/
