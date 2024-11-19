@@ -1,5 +1,5 @@
 # Drive Sprayer-Equipped Tractor in Vineyard Using Unreal Engine
-Agricultural applications have tradionally involved multiple stages of manual crop cultivation. These included soil preparation, plowing, seeding, adding fertilizer and pesticides, irrigation, and harvesting with the cycle repeating itself. 
+Agricultural applications have traditonally involved multiple stages of manual crop cultivation. These included soil preparation, plowing, seeding, adding fertilizer and pesticides, irrigation, and harvesting with the cycle repeating itself. 
 With the modernization of farming equipment, these stages have become nearly fully automated, involving little to no manual intervention. 
 This example focuses on starting the automation process of spraying pesticides on vineyard crops by first creating trajectories for driving a tractor between rows of crops in a vineyard.<br><br>
 ![Grapevine Image](images/TractorSprayerInVineyard.png)<br><br>
@@ -17,7 +17,7 @@ You will use an Unreal Engine executable to load the vineyard scene and drive th
 - [Image Processing Toolbox™](https://www.mathworks.com/products/image.html)
 - [Robotics System Toolbox™](https://www.mathworks.com/products/robotics.html)(Optional)
 <br><br>
-***Note***: The example can only be run in a Windows OS.
+***Note***: The example can only be run in a Windows OS and in MATLAB R2024b.
 
 ## Getting Started
 
