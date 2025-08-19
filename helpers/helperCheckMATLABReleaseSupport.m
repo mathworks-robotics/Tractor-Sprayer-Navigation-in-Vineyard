@@ -8,7 +8,7 @@ function helperCheckMATLABReleaseSupport()
 
 currRelease = matlabRelease;
 fprintf("Your current MATLAB release is -> %s\n",currRelease.Release);
-supportedReleases = ["R2024b" "R2025a"];
+supportedReleases = ["R2024b" "R2025a" "R2025b"];
 if any(contains(supportedReleases,currRelease.Release))
     disp('PAK files are supported in this release!');
 else
