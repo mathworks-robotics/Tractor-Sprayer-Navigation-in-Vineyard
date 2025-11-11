@@ -10,7 +10,7 @@ You will use an Unreal Engine executable to load the vineyard scene and drive th
 ![Tractor Sprayer Movement GIF](images/TractorSprayerGIF.gif)
 
 ## Requirements
-- [MATLAB® R2024b or later releases](https://www.mathworks.com/products/matlab.html)
+- [MATLAB® R2024b or later versions](https://www.mathworks.com/products/matlab.html)
 - [Simulink®](https://www.mathworks.com/products/simulink.html)
 - [Simulation 3D Animation™](https://www.mathworks.com/products/3d-animation.html)
 - [Automated Driving Toolbox™](https://www.mathworks.com/products/automated-driving.html)
