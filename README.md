@@ -17,7 +17,10 @@ You will use an Unreal Engine executable to load the vineyard scene and drive th
 - [Image Processing Toolbox™](https://www.mathworks.com/products/image.html)
 - [Robotics System Toolbox™](https://www.mathworks.com/products/robotics.html)(Optional)
 <br><br>
-***Note***: The example can only be run in a Windows OS.
+***Note***:  
+ - This example can only be run in a Windows OS.
+ - This example is not supported for MATLAB R2026a.
+ - For MATLAB R2026b or later versions, kindly refer to the [Drive Agricultural Tractor in Vineyard Using Unreal Engine](https://www.mathworks.com/help/robotics/ug/drive-agricultural-tractor-in-vineyard-using-unreal-engine.html) documented example instead.
 
 ## Getting Started
 
@@ -31,7 +34,7 @@ The license is available in the license.txt file in this GitHub repository.
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
-Copyright 2024-25 The MathWorks, Inc.
+Copyright 2024-26 The MathWorks, Inc.
 
 ## Reporting Security Vulnerabilities 
 
